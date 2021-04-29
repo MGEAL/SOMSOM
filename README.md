@@ -30,4 +30,5 @@ From all of these, the accuracy of the system was 69.2%. So we can see that, whe
  - Palawich Giraruchataporn 6322040335 m6322040335@g.siit.tu.ac.th
  - Warissara Limpornchitwilai 6322040350 m6322040350@g.siit.tu.ac.th
  - Thanaphon Rianthong 6322040418 m6322040418@g.siit.tu.ac.th
+
 This project is part of ICT730 Hardware Designs for Ai & IoT TAIST-Tokyo Tech program
